@@ -1,6 +1,39 @@
 
 
 
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>aside</title>
+  <script>
+   document.createElement('aside');
+   document.createElement('article');
+  </script>
+  <style>
+   aside {
+    position: fixed;
+    background: #f0f0f0;
+    padding: 10px;
+    width: 200px;
+    float: right;
+   }
+   article {
+    margin-left: 240px;
+    display: block;
+   }
+  </style>
+ </head> 
+ <body>
+  <header><h1></h1></header>
+  <aside>
+   <p>Экономьте электричество</p>
+   <p>Хороший язык</p>
+   <p>Чья палка больше</p>
+  </aside>
+  <article>
+ 
+
  <br> <br> <br> <br> <br>
 # настройка рабочей среды
 И так будем рассматривать на примере фотошоп cs5. При первом запуске мы можем заметить некоторые отличия.
@@ -1874,3 +1907,6 @@
 
 
 
+ </article>
+ </body> 
+</html>
