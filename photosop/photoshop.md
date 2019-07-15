@@ -12,11 +12,11 @@
   </script>
   <style>
    aside {
-    position: fixed;
+    position: fixed ;
     background: #f0f0f0;
     padding: 10px;
     width: 200px;
-    /* float: left;  */
+    float: left;  
    }
    #content {
     margin-left: 240px;
