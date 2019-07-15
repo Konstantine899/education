@@ -5,11 +5,7 @@
 <html>
  <head>
   <meta charset="utf-8">
-  <title>aside</title>
-  <script>
-   document.createElement('aside');
-   document.createElement('article');
-  </script>
+ 
   <style>
    aside {
     position: fixed ;
