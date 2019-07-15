@@ -16,9 +16,9 @@
     background: #f0f0f0;
     padding: 10px;
     width: 200px;
-    float: right;
+    /* float: left;  */
    }
-   article {
+   #content {
     margin-left: 240px;
     display: block;
    }
@@ -32,9 +32,10 @@
    <p>Чья палка больше</p>
   </aside>
   <article>
- 
+ </article>
 
- <br> <br> <br> <br> <br>
+<div id = "content">
+
 # настройка рабочей среды
 И так будем рассматривать на примере фотошоп cs5. При первом запуске мы можем заметить некоторые отличия.
 
@@ -1898,6 +1899,7 @@
  ![](./img/340.png)
  ![](./img/341.png)
 
+</div>
 
 
 
@@ -1906,7 +1908,6 @@
 
 
 
-
- </article>
+ 
  </body> 
 </html>
