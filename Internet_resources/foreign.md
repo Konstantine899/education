@@ -1,3 +1,4 @@
+
 **Полезные интернет ресурсы
 Сайты относящиеся к PHP**
 
@@ -23,6 +24,10 @@
 
 •	http://w3schools.com
 
+****
+<br><br><br><br><br><br><br><br><br>
+
+
 **Сайты относящиеся к MySQL**
 
 
@@ -38,6 +43,9 @@
 
 •	http://w3schools.com/PHP/php_mysql_i
 
+
+****
+<br><br><br><br><br><br><br><br><br>
 
 **Сайты относящиеся к JavaScript**
 
@@ -55,6 +63,10 @@
 •	http://www.webreference.com/js
 
 
+
+****
+<br><br><br><br><br><br><br><br><br>
+
 **Сайты относящиеся к CSS** 
 
 
@@ -65,6 +77,10 @@
 •	http://freehtmlvalidator.com
 
 •	http://quirksmode.org/css/quirksmode.html
+
+****
+<br><br><br><br><br><br><br><br><br>
+
 
 **Сайты относящиеся к HTML5**
 
@@ -82,6 +98,11 @@
 •	http://htmlvalidator.com
 
 •	http://modernizr.com
+
+
+
+****
+<br><br><br><br><br><br><br><br><br>
 
 **Сайты относящиеся к асинхронному обмену данными**
 
@@ -106,6 +127,10 @@
 
 •	http://prototypejs.org
 
+
+
+****
+<br><br><br><br><br><br><br><br><br>
 
 **Сайты с разнообразными ресурсами**
 
