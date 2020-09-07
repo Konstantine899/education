@@ -1,4 +1,4 @@
-#Шаблонные строки
+# Шаблонные строки
 
 [https://docs.google.com/presentation/d/12SbhHaPH9pueWmnbapi0yiyWp4gUH6f9Nr5oQa62Hsk/edit?usp=sharing](https://docs.google.com/presentation/d/12SbhHaPH9pueWmnbapi0yiyWp4gUH6f9Nr5oQa62Hsk/edit?usp=sharing),
 

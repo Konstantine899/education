@@ -1,4 +1,4 @@
-#Тернарный оператор и конструкция swich case.
+# Тернарный оператор и конструкция swich case.
 
 [https://docs.google.com/presentation/d/1nRs0i7rRydj1K3HXO-64B3gK9ZpeMjafpLX0g0riOBM/edit?usp=sharing](https://docs.google.com/presentation/d/1nRs0i7rRydj1K3HXO-64B3gK9ZpeMjafpLX0g0riOBM/edit?usp=sharing),
 

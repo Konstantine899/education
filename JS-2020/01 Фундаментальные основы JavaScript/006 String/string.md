@@ -1,4 +1,4 @@
-#Строки
+# Строки
 
 [https://learn.javascript.ru/string](https://learn.javascript.ru/string),
 

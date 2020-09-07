@@ -1,4 +1,4 @@
-#Логические операторы
+# Логические операторы
 
 [https://docs.google.com/presentation/d/1jF-QOejhsn0TVsV1wCuxH7fqok0jll-Mb3OSiMhePBQ/edit?usp=sharing](https://docs.google.com/presentation/d/1jF-QOejhsn0TVsV1wCuxH7fqok0jll-Mb3OSiMhePBQ/edit?usp=sharing),
 
