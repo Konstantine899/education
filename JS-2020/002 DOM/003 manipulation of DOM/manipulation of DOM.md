@@ -1,5 +1,14 @@
 # Манипуляция DOM
 
+<br>
+<br>
+
+[https://docs.google.com/presentation/d/1oIyyUx3IvwfkwpG5ENtMA-WAkUWbsBoxPDxc4Xhigew/edit?usp=sharing](https://docs.google.com/presentation/d/1oIyyUx3IvwfkwpG5ENtMA-WAkUWbsBoxPDxc4Xhigew/edit?usp=sharing)
+
+<br>
+<br>
+
+
 Познакомимся с тем как мы можем манипулировать нашим **DOM** изменять его содержимое, добавлять или удалять элементы.
 
 Начнем с методов. Это конечно не все методы и мы их рассмотрим поверхностно. Более подробно можно почитать о них на [MDN](https://developer.mozilla.org/ru/). У нас есть несколько методов как мы можем манипулировать содержимым элемента и добавлять новые элементы. 
